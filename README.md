@@ -1,5 +1,3 @@
-### Hi there! 👋 I'm Antonio 🤘 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/antoniopaolacci/antoniopaolacci/master/hi-there.png" alt="hi there! I'm antonio">
 </p>
