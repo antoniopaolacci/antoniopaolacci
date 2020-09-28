@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img width="160" height="100" src="https://raw.githubusercontent.com/antoniopaolacci/antoniopaolacci/master/music-spinner.gif" alt="banner antoniopaolacci github">
+  <img width="80" height="50" src="https://raw.githubusercontent.com/antoniopaolacci/antoniopaolacci/master/music-spinner.gif" alt="banner antoniopaolacci github">
 </p>
